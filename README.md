@@ -1,5 +1,4 @@
-![compute_vision,image_processing_and_open_cv 1](https://github.com/alich03/Shoplifting-Detection-using-yolov8/assets/104387113/348769f2-9367-4416-8a16-c7a6098040d8)
-# Shoplifting-Detection-using-yolov8
+
 
 Shoplifting Detection in Computer Vision using YOLOv8 Model 🛡️💡 Innovative Research & Development
 
